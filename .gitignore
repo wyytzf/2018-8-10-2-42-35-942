@@ -1,0 +1,10 @@
+.git
+.gradle
+.DS_Store
+tdd-TicTacToe-Game-java.*
+build
+out
+.classpath
+.project
+/bin
+/game
